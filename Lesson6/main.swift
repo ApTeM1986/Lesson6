@@ -34,4 +34,4 @@ print(newArray)
 newArray.removeItem()
 print(newArray)
 
-print(newArray[-])
+print(newArray[-3])
